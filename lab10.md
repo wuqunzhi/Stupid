@@ -5,7 +5,7 @@
 
 ### 2求极限
 如图作业第三题
-<img src="images/tititi.jpg" width="200" height="300" />   
+![](images/tititi.jpg)   
 用sympy求解如下
 ![](images/limit.png)  
 
