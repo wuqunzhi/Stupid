@@ -4,7 +4,6 @@
 ![](images/泰勒展开.png)
 
 ### 2求极限
-如图作业第三题
 ![](images/tititi.jpg)   
 用sympy求解如下
 ![](images/limit.png)  
